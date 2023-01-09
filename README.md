@@ -22,7 +22,7 @@
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
- ![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=CSharp&labelColor=0D1117)&nbsp;
+ ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=CSharp&labelColor=0D1117)&nbsp;
  ![VB.NET](https://img.shields.io/badge/-VB.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
  ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
  
