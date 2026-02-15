@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b9e24&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Weslley+Araujo;I'm+25+years+old;I'm+from+Rio+De+Janeiro,+Brazil;:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TwoflexStudios&show_icons=true&count_private=true&hide_border=true&title_color=25f833&icon_color=15741c&text_color=c9d1d9&bg_color=0d1117" alt="TwoflexStudios github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TwoflexStudios&layout=compact&hide_border=true&title_color=25f833&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/wl.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -37,5 +34,6 @@
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
+
 
 
