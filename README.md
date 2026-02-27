@@ -28,8 +28,8 @@
  ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/twoflexstudios/count.svg" /></p> 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=TwoflexStudios/TwoflexStudios" /></p> 
 <br>
 </div>
   
