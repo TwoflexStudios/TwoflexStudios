@@ -29,7 +29,7 @@
   
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=TwoflexStudios/TwoflexStudios" /></p> 
+<p align="center"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=TwoflexStudios.TwoflexStudios&countColor=%23777777&style=flat" /></p> 
 <br>
 </div>
   
