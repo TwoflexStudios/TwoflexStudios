@@ -5,7 +5,7 @@
 
 
 <div align="center"> 
-<a href="https://www.instagram.com/wl.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/wl.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href = "mailto:twoflexstudios@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/TwoflexStudios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
@@ -14,12 +14,6 @@
 
 Olá! Meu nome é Weslley Araujo, um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com 25 anos, minha jornada no mundo da programação tem sido focada em desenvolvimento web, sistemas distribuídos e otimização de performance. Sou de Rio de Janeiro, Brasil, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para construir projetos impactantes.
 
-
-
-
-## Sobre Mim
-
-Olá! Meu nome é Weslley Araujo, um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com 25 anos, minha jornada no mundo da programação tem sido focada em desenvolvimento web, sistemas distribuídos e otimização de performance. Sou de Rio de Janeiro, Brasil, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para construir projetos impactantes.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TwoflexStudios&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
@@ -35,8 +29,8 @@ Olá! Meu nome é Weslley Araujo, um desenvolvedor apaixonado por criar soluçõ
  ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
  
   ## Tecnologias para Estudar
- ![Python](https://img.shields.io/badge/-Python.js-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
- ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+ ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+ ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&nbsp;
   
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
